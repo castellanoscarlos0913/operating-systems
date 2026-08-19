@@ -28,7 +28,7 @@ My approach focused on defense-in-depth security, cost optimization, and modular
 ---
 
 ## Deliverables in this Repository
-* `CS_230_Software_Design_Document.docx` (or `.pdf`): Complete Software Design Document (Projects 1–3).
+* `CS_230_Software_Design_Document.docx`: Complete Software Design Document (Projects 1–3).
 * `README.md`: Architectural overview and course reflection.
 
 ## Author
